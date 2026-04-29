@@ -1,1 +1,40 @@
-# first-projects
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+nav {
+  background-color: #6b21a8; /* purple */
+  color: white;
+  padding: 15px;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+nav a:hover {
+  color: #facc15; /* yellow */
+}
+
+.hero {
+  text-align: center;
+  padding: 60px;
+  background: linear-gradient(to right, #9333ea, #ec4899);
+  color: white;
+}
+.hero h1 {
+  font-size: 3rem;
+}
+.hero p {
+  font-size: 1.2rem;
+}
+
+footer {
+  background-color: #6b21a8;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}

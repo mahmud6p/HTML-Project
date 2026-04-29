@@ -31,6 +31,14 @@ nav a:hover {
 .hero p {
   font-size: 1.2rem;
 }
+h3 {
+  color: #6b21a8;
+}
+p {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
 
 footer {
   background-color: #6b21a8;

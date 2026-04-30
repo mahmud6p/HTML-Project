@@ -28,6 +28,11 @@ nav a:hover {
 .hero h1 {
   font-size: 3rem;
 }
+h2 {
+  color: #9333ea;
+  margin-bottom: 10px;
+}
+
 .hero p {
   font-size: 1.2rem;
 }

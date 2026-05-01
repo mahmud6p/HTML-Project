@@ -39,6 +39,7 @@ h2 {
 }
 h3 {
   color: #6b21a8;
+  text-decoration: underline;
 }
 p {
   font-size: 1rem;

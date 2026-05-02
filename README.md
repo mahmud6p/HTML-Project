@@ -25,3 +25,7 @@ Added extra line in homepage
 Updated CSS line-height
 
 
+## May 2 Updates
+- Added Portfolio link in navbar
+- Added button styling
+- Added GitHub link in footer

@@ -72,3 +72,11 @@ button:hover {
   background-color: #1d4ed8;
 }
 
+input, textarea {
+  border: 1px solid #d1d5db;
+  transition: border-color 0.3s;
+}
+input:focus, textarea:focus {
+  border-color: #9333ea;
+}
+

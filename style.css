@@ -46,6 +46,14 @@ p {
   line-height: 1.5;
 }
 
+input[type="text"] {
+  outline: none;
+  transition: border-color 0.3s;
+}
+input[type="text"]:focus {
+  border-color: #2563eb; /* blue */
+}
+
 
 footer {
   background-color: #6b21a8;

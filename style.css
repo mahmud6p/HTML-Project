@@ -97,3 +97,12 @@ input:focus, textarea:focus {
     </div>
   </div>
 </section>
+
+
+ul {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+section {
+  border-bottom: 2px solid #e5e7eb;
+}

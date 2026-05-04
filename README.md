@@ -29,3 +29,9 @@ Updated CSS line-height
 - Added Portfolio link in navbar
 - Added button styling
 - Added GitHub link in footer
+
+
+## May 4 Updates
+- Added Services section
+- Added Pricing section with three plans
+- Enhanced CSS styling

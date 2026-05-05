@@ -35,3 +35,8 @@ Updated CSS line-height
 - Added Services section
 - Added Pricing section with three plans
 - Enhanced CSS styling
+
+## May 5 Updates
+- Added About DevPort section
+- Added Features section with three cards
+- Enhanced typography in CSS

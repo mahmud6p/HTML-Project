@@ -98,6 +98,21 @@ input:focus, textarea:focus {
   </div>
 </section>
 
+h2 {
+  font-family: 'Segoe UI', sans-serif;
+  margin-bottom: 20px;
+}
+h3 {
+  font-family: 'Segoe UI', sans-serif;
+  margin-bottom: 10px;
+}
+p {
+  line-height: 1.8;
+}
+
+
+
+
 
 ul {
   margin-top: 10px;

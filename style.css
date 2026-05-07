@@ -133,3 +133,20 @@ ul {
 section {
   border-bottom: 2px solid #e5e7eb;
 }
+
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #9333ea;
+  margin-bottom: 20px;
+}
+
+p {
+  color: #374151;
+  font-size: 18px;
+}

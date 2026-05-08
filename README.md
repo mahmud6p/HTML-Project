@@ -50,3 +50,10 @@ Updated CSS line-height
 - Added Gallery section with images
 - Added hover effect for gallery images
 - Added JavaScript image click event
+
+
+## May 8 Updates
+- Added Team section
+- Added hover effect for team cards
+- Added Skills section with progress bars
+- Added JavaScript skill level console log

@@ -165,3 +165,10 @@ p {
 .team-card:hover {
   transform: translateY(-5px);
 }
+
+.portfolio-card {
+  transition: transform 0.3s;
+}
+.portfolio-card:hover {
+  transform: scale(1.05);
+}

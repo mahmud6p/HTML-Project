@@ -63,3 +63,9 @@ Updated CSS line-height
 - Added hover effect for portfolio cards
 - Updated Testimonials section with new feedback
 - Added dynamic footer social links
+
+## May 10 Updates
+- Updated contact information
+- Embedded Google Map
+- Added newsletter signup form
+- Styled newsletter form

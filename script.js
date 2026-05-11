@@ -57,3 +57,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
   document.body.appendChild(footer);
 });
+
+// Commit 3: Dark mode toggle
+document.addEventListener("DOMContentLoaded", () => {
+  const toggle = document.createElement("button");
+  toggle.textContent = "Toggle Dark Mode";
+  toggle.style.margin = "20px";
+  document.body.appendChild(toggle);
+
+  toggle.addEventListener("click", () => {
+    document.body.classList.toggle("dark-mode");
+  });
+});

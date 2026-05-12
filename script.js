@@ -69,3 +69,9 @@ document.addEventListener("DOMContentLoaded", () => {
     document.body.classList.toggle("dark-mode");
   });
 });
+
+// Commit 3: Count blog posts
+document.addEventListener("DOMContentLoaded", () => {
+  const posts = document.querySelectorAll("article");
+  console.log("Total blog posts: " + posts.length);
+});

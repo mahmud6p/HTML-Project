@@ -81,3 +81,9 @@ Updated CSS line-height
 - Styled blog posts
 - Added blog post counter in JavaScript
 - Added footer section
+
+## May 12 Updates
+- Updated About section with bio
+- Added styling for service cards
+- Added console welcome message
+- Added dynamic year in footer

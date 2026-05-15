@@ -219,3 +219,16 @@ article h3 {
 .service-card:hover {
   transform: translateY(-5px);
 }
+
+nav a {
+  transition: color 0.3s;
+}
+nav a:hover {
+  color: #facc15;
+}
+button {
+  transition: background-color 0.3s;
+}
+button:hover {
+  background-color: #7e22ce;
+}

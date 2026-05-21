@@ -87,3 +87,9 @@ Updated CSS line-height
 - Added styling for service cards
 - Added console welcome message
 - Added dynamic year in footer
+
+## May 21 Updates
+- Updated Navbar with Testimonials link
+- Enhanced Hero section with CTA button
+- Added Features section with updated cards
+- Added hover effects and section heading style

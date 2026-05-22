@@ -301,3 +301,19 @@ section h2 {
 }
 
 
+nav a {
+  transition: color 0.3s;
+}
+nav a:hover {
+  color: #facc15;
+}
+button {
+  transition: background-color 0.3s;
+}
+button:hover {
+  background-color: #9333ea;
+}
+section h2 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}

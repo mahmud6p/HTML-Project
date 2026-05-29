@@ -100,3 +100,10 @@ Updated CSS line-height
 - Enhanced Hero section with Certificates CTA
 - Added Features section with updated cards
 - Added hover effects and section heading style
+
+
+## May 29 Updates
+- Enhanced About section with experience detail
+- Added Incident Response card in Services section
+- Added Subject field in Contact form
+- Styled Contact form and section headings

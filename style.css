@@ -424,3 +424,26 @@ section h2 {
   text-transform: uppercase;
   letter-spacing: 1px;
 }
+
+input, textarea {
+  border: 1px solid #d1d5db;
+  transition: border-color 0.3s;
+}
+input:focus, textarea:focus {
+  border-color: #9333ea;
+  outline: none;
+}
+form button {
+  transition: background-color 0.3s;
+}
+form button:hover {
+  background-color: #7e22ce;
+}
+section h2 {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.mt-6 p {
+  font-size: 14px;
+  color: #9ca3af;
+}
